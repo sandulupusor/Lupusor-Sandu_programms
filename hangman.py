@@ -1,5 +1,5 @@
 
-word='bitch'
+word='anywordyouwant'
 guess='_'*len(word)
 
 k=6
